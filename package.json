@@ -1,0 +1,16 @@
+{
+  "name": "debug-log",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvbassalobre/DebugLog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mvbassalobre/DebugLog/issues"
+  },
+  "homepage": "https://github.com/mvbassalobre/DebugLog#readme"
+}
