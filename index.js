@@ -1,4 +1,4 @@
-const isDevelopment = (['development', 'test', 'testing'].includes(process?.env?.NODE_ENV || '')) || false;
+const isDevelopment = (['development', 'test', 'testing'].includes(process.env.NODE_ENV || '')) || false;
 
 const debug = {
   execute(type, ...content) {
